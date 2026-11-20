@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Student Info System</string>
+    <string name="sis_title">Student Information System</string>
+    <string name="sis_subtitle">Portal Sign In</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login_button">Sign In</string>
+    <string name="login_hint">Enter your login credentials</string>
+
+    <string name="student_number">Student Number</string>
+    <string name="last_name">Last Name</string>
+    <string name="first_name">First Name</string>
+    <string name="middle_name">Middle Name</string>
+    <string name="academic_info_header">Student Academic Info</string>
+    <string name="personal_info_header">Student Personal Info</string>
+    <string name="program">Program / Course</string>
+    <string name="year_level">Year Level</string>
+
+    <string name="btn_save">Save Student Record</string>
+    <string name="btn_clear">Clear Fields</string>
+    <string name="btn_logout">Logout</string>
+
+    <string name="submitted_record">Student Record Details</string>
+    <string name="empty_field_error">This field is required</string>
+    <string name="login_failed">Invalid username or password</string>
+    <string name="record_saved">Student record saved successfully!</string>
+
+    <string-array name="programs_array">
+        <item>BS Computer Science</item>
+        <item>BS Information Technology</item>
+        <item>BS Business Administration</item>
+        <item>BS Nursing</item>
+        <item>BS Civil Engineering</item>
+        <item>BS Secondary Education</item>
+    </string-array>
+
+    <string-array name="year_levels_array">
+        <item>1st Year</item>
+        <item>2nd Year</item>
+        <item>3rd Year</item>
+        <item>4th Year</item>
+    </string-array>
+</resources>
